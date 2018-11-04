@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EE461L-HW4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="edit_message">Enter a Loaction</string>
+
+    <string name="button_send">Search</string>
+    <string name="button_zoom_in">Z+</string>
+    <string name="button_zoom_out">Z-</string>
+    <string name="button_type">Type</string>
+
+
+    <string name="error_msg">Location not found</string>
+</resources>
